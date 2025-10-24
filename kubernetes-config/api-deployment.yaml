@@ -17,7 +17,7 @@ spec:
         ver: v1.0
     spec:
       containers:
-      - image: palachu/events-api:v1.0
+      - image: michaelnv01/events-api:v1.0
         name: events-api
         ports:
         - containerPort: 8082
